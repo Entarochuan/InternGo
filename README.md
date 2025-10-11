@@ -1,6 +1,8 @@
 # **Mixing Expert Knowledge: Bring Human Thoughts Back to The Game of Go**
 
+<p align="center">
 Repo for *Mixing Expert Knowledge: Bring Human Thoughts Back to The Game of Go*
+</p>
 
 <p align="center">
 📃 <a href="https://neurips.cc/virtual/2025/poster/117166" target="_blank">Paper</a> ｜ 🤗 <a href="https://huggingface.co/YichuanMa/LoGos-7B" target="_blank">LoGos-7B</a> ｜ 🤗 <a href="" target="_blank">Datasets</a> ｜ 📧 <a href="mailto:mayichuan@pjlab.org.cn">Email</a>
