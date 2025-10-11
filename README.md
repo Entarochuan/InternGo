@@ -90,9 +90,11 @@ if data_source == 'GO':
     res = Go_reward.compute_score(solution_str, ground_truth)
 ```
 
-3. Prepare RL training data (download GRPO-Dataset-1K and put the `train.parquet` and `test.parquet` into `verl/data/GO`).
+### Step2: Start Training
 
-4. Start GRPO training, we recommand using 8xA800. 
+1. Prepare RL training data (download GRPO-Dataset-1K and put the `train.parquet` and `test.parquet` into `verl/data/GO`).
+
+2. Start GRPO training, we recommand using 8xA800. 
 
 ```bash
 bash Go_train_demo.sh
