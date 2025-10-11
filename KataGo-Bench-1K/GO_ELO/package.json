@@ -1,0 +1,21 @@
+{
+    "name": "go-game-api",
+    "version": "1.0.0",
+    "description": "围棋游戏 API 服务",
+    "main": "go-api-server.js",
+    "scripts": {
+        "start": "node go-api-server.js 3002",
+        "dev": "nodemon go-api-server.js",
+        "start:port": "node go-api-server.js"
+    },
+    "dependencies": {
+        "@sabaki/go-board": "^1.4.3",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "ioredis": "^5.6.1",
+        "pm2": "^6.0.6"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
