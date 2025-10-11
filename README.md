@@ -136,7 +136,15 @@ And see `Use_demo.py` for common usage.
 Arxiv version Coming Soon :)
 ```
 
-## **6. Acknowledgements**
+## **6. License**
+
+![Code License](https://img.shields.io/badge/Code%20License-Apache%202.0-green)
+![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-orange)
+
+**Usage and License Notices:**
+The data and code are intended and licensed for research use only. License: Attribution-NonCommercial 4.0 International. It should abide by the policy of OpenAI: https://openai.com/policies/terms-of-use
+
+## **7. Acknowledgements**
 
 We would like to express our sincere gratitude to the following platforms and projects for their contributions to the community:
 
