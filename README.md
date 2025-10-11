@@ -1,11 +1,15 @@
 # **Mixing Expert Knowledge: Bring Human Thoughts Back to The Game of Go**
 Repo for *Mixing Expert Knowledge: Bring Human Thoughts Back to The Game of Go*
 
-## Pipeline
-![LoGos Demo](images/Go-Pipeline.png)
+## Overview
+![LoGos Pipelin](images/Go-Pipeline.png)
+*Our methodology for integrating Go professional capabilities with LLMs' long COT reasoning abilities. After mixed cold start and GRPO training, our model successfully transfers the reasoning capabilities acquired from long CoT data to Go tasks. For a given query, the model correctly performs analysis, thinking, reasoning, and summarization, ultimately selecting a reasonable next move.*
 
 ## Demo
 ![LoGos Demo](images/LoGos.gif)
+
+## News
+- **2025-09**: 🎉🎉Our paper is accepted by NIPS 2025.
 
 ## **1. Collections**
 
@@ -15,11 +19,11 @@ Repo for *Mixing Expert Knowledge: Bring Human Thoughts Back to The Game of Go*
 
 ### 1.2 Models and Datasets
 
-You can find all our latest models and datasets in the following two tables.
+You can find our latest models and datasets in the following two tables.
 
 | Model Name | Description | Download Link | Size |
 |------------|-------------|---------------|------|
-| LoGos-7B | 7B parameter model for Go reasoning | On the way | 7B |
+| LoGos-7B | 7B parameter model for Go reasoning | [LoGos-7B](https://huggingface.co/YichuanMa/LoGos-7B) | 7B |
 <!-- | LoGos-32B | 32B parameter model for Go reasoning | [Download](link) | 13B | -->
 
 
@@ -115,3 +119,12 @@ sudo apt install nodejs npm
  
 And see `Use_demo.py` for common usage.
 
+## **5. Citation**
+
+## **6. Acknowledgements**
+
+We would like to express our sincere gratitude to the following platforms and projects for their contributions to the community:
+
+- **[verl](https://github.com/volcengine/verl)**: For the reinforcement learning training infrastructure
+- **[KataGo](https://github.com/lightvector/KataGo)**: For the Go engine and evaluation tools
+- **[Yike](https://home.yikeweiqi.com/#/game)**: For part of the Go professional datasets
