@@ -1,7 +1,7 @@
 # **Mixing Expert Knowledge: Bring Human Thoughts Back to The Game of Go**
 
 <p align="center">
-Repo for *Mixing Expert Knowledge: Bring Human Thoughts Back to The Game of Go*
+Repo for <em>Mixing Expert Knowledge: Bring Human Thoughts Back to The Game of Go</em>
 </p>
 
 <p align="center">
