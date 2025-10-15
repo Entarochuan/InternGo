@@ -360,7 +360,6 @@ def demo_board_display():
 if __name__ == "__main__":
     # 运行主要测试
     main()
-
     print("\n" + "=" * 80)
 
     # 运行开局演示
