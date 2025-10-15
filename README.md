@@ -4,8 +4,13 @@
 </div>
 
 
+<!-- <p align="center">
+Repo for <em>Mixing Expert Knowledge: Bring Human Thoughts Back to The Game of Go</em>  
+</p> -->
+
 <p align="center">
-Repo for <em>Mixing Expert Knowledge: Bring Human Thoughts Back to The Game of Go</em>
+We name our model <em><strong>LoGos</strong>,</em>  representing <em>"word"</em>  and
+<em>"thought"</em> in Greek, aspiring to bring the uniquely human capacity of reasoning back to the ancient game of Go.
 </p>
 
 <p align="center">
