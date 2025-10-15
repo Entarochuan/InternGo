@@ -25,7 +25,12 @@ We name our model <em><strong>LoGos</strong>,</em>  representing <em>"word"</em>
 ![LoGos Demo](images/LoGos.gif)
 
 ## News
+
 - **2025-09**: 🎉🎉Our paper is accepted by NIPS 2025.
+
+- **2025-05**: We invite professional Go players 赵晨宇九段 and 战鹰二段 to play with InternThinker-Go, [see the live replay here](https://www.bilibili.com/video/BV1117wz3EHo/?vd_source=9d61fe3d4e46469f76cfd82a6da1ef35).
+
+<p align="center"><img src="images/LoGos-Life.gif" alt="LoGos Demo" width="480" /></p>
 
 ## **1. Collections**
 
